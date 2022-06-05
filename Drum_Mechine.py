@@ -23,7 +23,7 @@ buttom_color1 = (194, 222, 209)
 hovered_color = (146, 180, 236)
 
 
-
+print ("lalal")
 Instrumants = 6
 
 #load sounds
